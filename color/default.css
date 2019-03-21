@@ -1,0 +1,43 @@
+a, a:hover {
+  color: grey;
+}
+
+
+/* Back to top button */
+.back-to-top {
+  background: grey;
+  color:black;
+}
+
+
+.back-to-top:focus {
+  background: grey;
+  color: black;
+}
+
+.back-to-top:hover {
+  background: grey;
+  color: black;
+}
+
+.navbar-default {
+  background: black;
+}
+
+.form-control:focus {
+  border-color: grey;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px grey;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px grey;
+}
+
+.service .carousel-indicators .active {
+  background: grey;
+}
+
+.btn-theme {
+  background: grey;
+}
+
+.contact-widget i {
+  color: grey;
+}
